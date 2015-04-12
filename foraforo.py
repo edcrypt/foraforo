@@ -23,4 +23,4 @@ def index():
     fora = foraforoforofora()
     return template('foraforo', **locals())
 
-run(host='0.0.0.0', port=8080, reload=True)
+run(host='0.0.0.0', port=8081)
